@@ -1,0 +1,127 @@
+/* Tu CSS va aqui */
+header .navbar-header h4   {
+	color: #F06445;
+}
+header .navbar-default  {
+	background-color: white;
+	
+}
+header .nav > li > a {
+	color: black !important; 
+	font-weight: bold;
+}
+.fondo {
+	background-image: url(../img/header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 215px;
+    background-position-y: -215px;
+	margin-bottom: -216px;
+}
+.fondo h3 {
+	color: #CEC6BE;
+}
+.text-white {
+	color: white;
+}
+.btn {
+	background-color: #F06445;
+	border-radius: 30px;
+	font-weight: bold;
+	margin-bottom: 80px;
+}
+.btn:hover {
+	background-color: red;
+	border: 0 solid ;
+}
+.linea {
+	width: 6%;
+    border: 2px solid #F06445;
+    margin: 2% 45%;   
+}
+
+.parrafo {
+	font-family: arial;
+	font-size: 180%;
+	color: white;
+}
+.bg-orange {
+	background-color: #F05F40;
+	padding: 9% 29%;
+} 
+.linea2 {
+	width: 10%;
+    border: 2px solid white;
+    margin: 2% 45%;   
+}
+.linea3 {
+	width: 4.5%;
+    border: 2px solid #F06445;
+    margin: 2% 48%;
+}
+.c-o {
+	color: #F06445;
+	font-size: 500%;
+}
+.ico {
+	padding: 6% 0;
+}
+.bg-img1 {
+	background-image: url(../img/1.jpg);
+}
+.bg-img2 {
+	background-image: url(../img/2.jpg);
+}
+.bg-img3 {
+	background-image: url(../img/3.jpg);
+}
+.bg-img4 {
+	background-image: url(../img/4.jpg);
+}
+.bg-img5 {
+	background-image: url(../img/5.jpg);
+}
+.bg-img6 {
+	background-image: url(../img/6.jpg);
+}
+
+.h-img {
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 200px
+}
+.col-lg-4 {
+	padding: 0;
+}
+.fondoplomo {
+	background-color: #222222;
+	padding: 8% 0;
+}
+.btn-2 {
+	background-color: white;
+	color: black;
+	margin-top: 2.5%;
+}
+h2 {
+	margin: 0;
+}
+footer {
+	padding: 10% 9%;
+}
+.ico-contact {
+	font-size: 300%;
+}
+.ico-contact a {
+	color: #F06445;
+}
+.cat {
+	display: none;
+	background-color: rgba(240,95,64,0.5);
+	height: 100%;
+	width:100%;
+	text-align: center;
+	padding: 15% 0;
+}
+.h-img:hover .cat {
+	display: block;
+}

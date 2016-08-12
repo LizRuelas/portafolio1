@@ -1,0 +1,91 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M742.741 83.925h-461.483l-281.259 278.741 512 577.408 512-577.408-281.259-278.741zM921.344 385.195l-0.597-2.603h-379.819l182.101-196.651 198.315 199.253zM443.648 741.803l-299.648-316.544h197.333l-19.84 9.515 122.155 307.029zM364.245 425.259h295.424l-147.669 369.237-147.755-369.237zM682.667 425.259h197.248l-299.648 316.544 122.155-307.029-19.755-9.515zM512 351.104l-166.997-181.845h333.909l-166.912 181.845zM300.928 187.563l182.101 195.029h-379.861l-0.512 0.981 198.272-196.011z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "diamond",
+          "jewelry"
+        ],
+        "grid": 24
+      },
+      "attrs": [],
+      "properties": {
+        "id": 105,
+        "order": 18,
+        "prevSize": 24,
+        "code": 59648,
+        "name": "diamond"
+      },
+      "setIdx": 0,
+      "setId": 3,
+      "iconIdx": 104
+    },
+    {
+      "icon": {
+        "paths": [
+          "M469.333 341.333h-298.667v341.333h298.667v-341.333zM426.667 618.709c0-35.328-47.744-63.957-106.667-63.957s-106.667 28.629-106.667 63.957v-234.709h213.333v234.709zM256 490.752c0 35.346 28.654 64 64 64s64-28.654 64-64c0-35.346-28.654-64-64-64-35.346 0-64 28.654-64 64zM935.637 170.667h-853.333c-47.147 0-82.304 34.432-82.304 81.493v512c0 47.189 35.157 89.173 82.304 89.173h853.333c47.104 0 88.363-41.984 88.363-89.173v-512c0-47.061-41.259-81.493-88.363-81.493zM938.667 768h-853.333v-512h853.333v512zM554.667 341.333h298.667v85.333h-298.667zM554.667 469.333h298.667v42.667h-298.667zM554.667 554.667h298.667v42.667h-298.667zM554.667 640h128v42.667h-128zM725.248 640h42.752v42.752h-42.752z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "vcard",
+          "card",
+          "profile"
+        ],
+        "grid": 24
+      },
+      "attrs": [],
+      "properties": {
+        "id": 108,
+        "order": 19,
+        "prevSize": 24,
+        "code": 59649,
+        "name": "vcard"
+      },
+      "setIdx": 0,
+      "setId": 3,
+      "iconIdx": 107
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "icomoon"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 100,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}
